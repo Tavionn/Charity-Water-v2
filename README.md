@@ -4,9 +4,11 @@
 
 A browser game prototype built with HTML, CSS, and JavaScript for the charity: water game project. It works on desktop and mobile.
 
+> **This is v2**, a working copy of [Charity-Water-](https://github.com/Tavionn/Charity-Water-). Changes here don't affect the original.
+
 ## Play
 
-Open `index.html` in any web browser. No installs or build steps are needed.
+Play it live at **https://tavionn.github.io/Charity-Water-v2/**, or open `index.html` in any web browser. No installs or build steps are needed.
 
 ## Two roles
 
